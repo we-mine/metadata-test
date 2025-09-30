@@ -1,0 +1,15 @@
+{
+  "name": "Devnet Diggers #4367",
+  "description": "This a test NFT.",
+  "image": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/devnet-diggers.png",
+  "external_url": "https://wemine.fi/",
+  "category": "image",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/devnet-diggers.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
