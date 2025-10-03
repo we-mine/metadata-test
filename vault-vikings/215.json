@@ -1,0 +1,15 @@
+{
+  "name": "Vault Vikings #215",
+  "description": "This is a test NFT collection: Vault Vikings.",
+  "image": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/vault-vikings.png",
+  "external_url": "https://wemine.fi/",
+  "category": "image",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/vault-vikings.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

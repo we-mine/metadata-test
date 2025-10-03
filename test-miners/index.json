@@ -1,0 +1,22 @@
+{
+  "name": "Test Miners | WeMine",
+  "description": "This a test collection.",
+  "image": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/test-miners.png",
+  "external_url": "https://wemine.fi/",
+  "category": "image",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/test-miners.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "asset": "BTC",
+  "reward": "zBTC",
+  "location": "Ethiopia",
+  "energySource": "100% Hydro",
+  "miningPower": "500TH",
+  "expectedAPY": "10%",
+  "tokenVesting": true
+}
