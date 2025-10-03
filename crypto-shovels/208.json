@@ -1,0 +1,15 @@
+{
+  "name": "Crypto Shovels #208",
+  "description": "This is a test NFT collection: Crypto Shovels.",
+  "image": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/crypto-shovels.png",
+  "external_url": "https://wemine.fi/",
+  "category": "image",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/crypto-shovels.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

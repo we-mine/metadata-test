@@ -1,0 +1,15 @@
+{
+  "name": "Block Breakers #429",
+  "description": "This is a test NFT collection: Block Breakers.",
+  "image": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/block-breakers.png",
+  "external_url": "https://wemine.fi/",
+  "category": "image",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/block-breakers.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

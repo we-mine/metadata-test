@@ -1,0 +1,15 @@
+{
+  "name": "Ledger Legends #111",
+  "description": "This is a test NFT collection: Ledger Legends.",
+  "image": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/ledger-legends.png",
+  "external_url": "https://wemine.fi/",
+  "category": "image",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/we-mine/metadata-test/master/img/ledger-legends.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
